@@ -1,6 +1,5 @@
   
 ### 🌟 This's Me!  
----  
 - 📫 Node.js, Spring boot 중심의 3년 차 백엔드 서버 개발자입니다.  
 - ⚡ 대화는 또 하나의 개발 방법이라는 것을 믿으며 협력을 통하여 발전하고 있습니다.  
 &nbsp;&nbsp;
@@ -17,6 +16,7 @@
   <img src="https://img.shields.io/badge/Spring%20Boot-brightgreen?style=flat&logo=spring%20boot&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/Node.js-yellow?style=flat&logo=Node.js&logoColor=white"/></a> 
  <img src="https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Redis-red?style=flat&logo=Redis&logoColor=white"/></a>
   &nbsp;
 - DevOps.  
 
@@ -25,6 +25,7 @@
  <img src="https://img.shields.io/badge/Elastic%20Stack-ff69b4?style=flat&logo=elastic%20stack&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/Mosquitto-gray?style=flat&logo=Eclipse%20Mosquitto&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/RabbitMQ-orange?style=flat&logo=rabbitmq&logoColor=white"/></a>
+ <img src="https://img.shields.io/badge/CentOS%207-blue?style=flat&logo=centos&logoColor=white"/></a>
   &nbsp;&nbsp;  
 
 ### 🖱 Git Status
@@ -38,7 +39,7 @@
 **pastko/pastko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+Redis
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
