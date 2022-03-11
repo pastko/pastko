@@ -1,4 +1,4 @@
-  <a href="storyofstory@naver.com" target="_blank"><img src="https://img.shields.io/badge/storyofstory@naver.com-blueviolet?style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="https://storyofsky.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-blue?style=for-the-badge&logo=4chan&logoColor=white"/></a><a href="https://curly-trunk-d1e.notion.site/Pastko-16cd2c4febea443081eb7e7e93d97435" target="_blank"><img src="https://img.shields.io/badge/Resume-orange?style=for-the-badge&logo=notion&logoColor=white"/></a> 
+  <a href="storyofstory@naver.com" target="_blank"><img src="https://img.shields.io/badge/storyofstory@naver.com-brightgreen?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://storyofsky.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-blue?style=for-the-badge&logo=4chan&logoColor=white"/></a> <a href="https://curly-trunk-d1e.notion.site/Pastko-16cd2c4febea443081eb7e7e93d97435" target="_blank"><img src="https://img.shields.io/badge/Resume-F7F6F3?style=for-the-badge&logo=notion&logoColor=yellow"/></a> 
   
   
 ### 🌟 This's Me!  
